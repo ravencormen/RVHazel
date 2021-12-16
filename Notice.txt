@@ -1,0 +1,5 @@
+22:23 2021/12/14
+使用步骤：
+1、双击GenerateProjects.bat
+2、打开sln，点击F7，对两个项目编译，会有错误
+3、右键Hazel项目点击Clean，然后右键点击Hazel项目点击Build，即可通过
